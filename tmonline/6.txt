@@ -1,0 +1,1 @@
+{"name": "glowino", "types": [{"slot":1, "type": {"name": "electric"}}], "tmwgid": -14, "evolves": {"level": 40, "name": "gloyew"}, "stats": {"HP": 3, "ATT": 3, "DEF": 3, "RAA": 2, "SPE": 3, "AGI": 2}, "image": "https://cdn.glitch.com/abcabeb5-3cd6-40d2-8dbd-40e7aa0a6cd5%2FGlowino.png?v=1577998926305", "notes": "" }

@@ -1,0 +1,1 @@
+{"name": "gorillastein", "types": [{"slot":1, "type": {"name": "arcane"}}], "tmwgid": -12, "evolves": {"level": 44, "name": "frankilla"}, "stats": {"HP": 0, "ATT": 2, "DEF": 2, "RAA": 2, "SPE": 1, "AGI": 2}, "image": "https://cdn.glitch.com/abcabeb5-3cd6-40d2-8dbd-40e7aa0a6cd5%2FGorillastein.png?v=1577999197726", "notes": "" }

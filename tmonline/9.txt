@@ -1,0 +1,1 @@
+{"name": "frankilla", "types": [{"slot":1, "type": {"name": "arcane"}}], "tmwgid": -11, "evolves": {"level": "none", "name": "does not evolve further"}, "stats": {"HP": 3, "ATT": 3, "DEF": 2, "RAA": 2, "SPE": 2, "AGI": 2}, "image": "https://vignette.wikia.nocookie.net/terramonstersworldgalaxy/images/c/c6/Frankilla.png/revision/latest?cb=20140604225932", "notes": "" }

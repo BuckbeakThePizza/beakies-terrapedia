@@ -1,0 +1,1 @@
+{"name": "flarmiblue", "types": [{"slot":1, "type": {"name": "fire"}}], "tmwgid": -17, "evolves": {"level": "none", "name": "does not evolve further"}, "stats": {"HP": 0, "ATT": 1, "DEF": 2, "RAA": 2, "SPE": 2, "AGI": 2}, "image": "https://vignette.wikia.nocookie.net/terramonsters/images/e/ea/Flarmiblue1.png/revision/latest?cb=20140606105402", "notes": "" }

@@ -1,0 +1,1 @@
+{"name": "gloyew", "types": [{"slot":1, "type": {"name": "electric"}}], "tmwgid": -13, "evolves": {"level": "none", "name": "does not evolve further"}, "stats": {"HP": 4, "ATT": 3, "DEF": 3, "RAA": 3, "SPE": 3, "AGI": 2}, "image": "https://cdn.glitch.com/abcabeb5-3cd6-40d2-8dbd-40e7aa0a6cd5%2FGloyew.png?v=1577999053910", "notes": "" }

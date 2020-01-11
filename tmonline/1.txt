@@ -1,0 +1,1 @@
+{"name": "shadowvolt", "types": [{"slot":1, "type": {"name": "electric"}}], "tmwgid": -19, "evolves": {"level": "none", "name": "does not evolve further"}, "stats": {"HP": [], "ATT": [], "DEF": [], "RAA": [], "SPE": [], "AGI": []}, "image": "https://cdn.glitch.com/abcabeb5-3cd6-40d2-8dbd-40e7aa0a6cd5%2FShadowvolt.jpg?v=1577992687472", "notes": "information unknown" }

@@ -1,0 +1,2 @@
+{"name": "dandylion", "types": [{"slot":1, "type": {"name": "earth"}}], "tm1id": 1, "tm2id": 160, "tm3id": 73, "tmwgid": 1, "evolves": {"level": 15, "name": "purrpetal"}, "stats": {"HP": 30, "MEA": 40, "MED": 23, "RAA": 23, "RAD": 41, "SPE": 36, "ENE": 200, "ACC": 34, "AGI": 32, "RES": 30}, "image": "https://vignette.wikia.nocookie.net/terramonstersworldgalaxy/images/8/87/Dandylion.png/revision/latest?cb=20140604185029&format=original", "notes": "" , "trivia": {"image": "", "name": "", "other": ""}}
+

@@ -1,0 +1,1 @@
+{"name": "roboamp", "types": [{"slot":1, "type": {"name": "electric"}}], "tmwgid": -5, "evolves": {"level": "none", "name": "does not evolve further"}, "stats": {"HP": 3, "ATT": 3, "DEF": 3, "RAA": 3, "SPE": 3, "AGI": 3}, "image": "https://vignette.wikia.nocookie.net/terramonstersworldgalaxy/images/c/c7/Roboamp.png/revision/latest?cb=20140604225948", "notes": "" }
