@@ -1,0 +1,1 @@
+{"name": "dashing equinair", "types": [{"slot":1, "type": {"name": "air"}}], "tmwgid": -8, "evolves": {"level": 26, "name": "dashing equiness"}, "stats": {"HP": 0, "ATT": 1, "DEF": 1, "RAA": 2, "SPE": 4, "AGI": 2}, "image": "https://vignette.wikia.nocookie.net/terramonstersworldgalaxy/images/a/aa/Dashing_Equinair.png/revision/latest?cb=20140604190650", "notes": "" }

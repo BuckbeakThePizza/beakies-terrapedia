@@ -1,0 +1,1 @@
+{"name": "thrashbot", "types": [{"slot":1, "type": {"name": "electric"}}], "tmwgid": -2, "evolves": {"level": "none", "name": "does not evolve further"}, "stats": {"HP": 4, "ATT": 2, "DEF": 2, "RAA": 4, "SPE": 1, "AGI": 3}, "image": "https://vignette.wikia.nocookie.net/terramonstersworldgalaxy/images/a/af/Thrashbot.png/revision/latest?cb=20140604190241", "notes": "" }

@@ -1,0 +1,1 @@
+{"name": "", "types": [{"slot":1, "type": {"name": ""}}], "tmwgid": , "evolves": {"level": , "name": ""}, "stats": {"HP": , "ATT": , "DEF": , "RAA": , "SPE": , "AGI": }, "image": "", "notes": "" }

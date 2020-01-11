@@ -1,0 +1,313 @@
+.card.fire {
+  background-color: darkred;
+}
+
+.card.water {
+  background-color: darkblue;
+}
+
+.card.earth {
+  background-color: darkgreen;
+}
+
+.card.air {
+  background-color: #b526d9;
+}
+
+.card.arcane {
+  background-color: #333333;
+}
+
+.card.electric {
+  background-color: #a8a824;
+
+}
+
+.card.ice {
+  background-color: #3ca1c3;
+}
+
+.moncard.fire {
+  background-color: darkred;
+}
+
+.moncard.water {
+  background-color: darkblue;
+}
+
+.moncard.earth {
+  background-color: darkgreen;
+}
+
+.moncard.air {
+  background-color: #b526d9;
+}
+
+.moncard.arcane {
+  background-color: #333333;
+}
+
+.moncard.electric {
+  background-color: #a8a824;
+
+}
+
+.moncard.ice {
+  background-color: #3ca1c3;
+}
+
+
+.searchbutton {
+  font-family: "itim";
+  color: white;
+  background-color: darkblue;
+  border: 1px dashed lightblue;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
+  border-radius:5px;
+}
+
+.searchbutton:hover {
+  background-color: lightblue;
+  color:darkblue;
+}
+
+.searchbutton.active {
+  background-color:white;
+  color:darkblue;
+}
+
+
+#searchbar {
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: "itim";
+}
+
+input[type="text"] {
+  width: 30%;
+  -webkit-transition: width 0.15s ease-in-out;
+  transition: width 0.15s ease-in-out;
+}
+
+/* When the input field gets focus, 
+        change its width to 100% */
+input[type="text"]:focus {
+  width: 70%;
+}
+
+body {
+  background-color: lightblue;
+  color: blue;
+  font-family: "itim";
+  margin: 20px;
+  text-align: center;
+  background-image: url("https://cdn.glitch.com/e76bbb28-65f7-4f31-b3d2-3e7e18dca3f0%2FBuckBeak%20The%20Pizza.png?v=1576355361126");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-blend-mode: luminosity;
+  background-size: contain;
+}
+
+.desc {
+  background-color: rgba(0, 0, 139, 0.7);
+  margin-left: 25%;
+  margin-right: 25%;
+  color: lightblue;
+  list-style: none;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+hr {
+  border: 1px solid lightblue;
+  margin: 5px;
+}
+.card {
+  list-style: none;
+  padding: 40px;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+}
+
+.moncard {
+  list-style: none;
+  padding: 40px;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+}
+
+.typecard {
+  list-style: none;
+  padding: 40px;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid blue;
+  background-color: darkblue;
+  text-align: center;
+}
+
+.tab button {
+  background-color: inherit;
+  color: white;
+  font-family: "itim";
+  text-align: center;
+  float: center;
+  border: none;
+  outline: none;
+  cursor: url(
+      https://cdn.glitch.com/abcabeb5-3cd6-40d2-8dbd-40e7aa0a6cd5%2Feeew%20small.png?v=1576426252449
+    ),
+    auto;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+.tab button:hover {
+  background-color: lightblue;
+  color: blue;
+}
+
+.tab button.active {
+  background-color: white;
+  color: darkblue;
+}
+
+.topright {
+  float: right;
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.topright:hover {
+  color: darkblue;
+}
+
+.card:hover {
+  animation: bounce 0.5s linear;
+}
+.typecard:hover {
+  animation: bounce 0.5s linear;
+}
+
+@keyframes bounce {
+  20% {
+    transform: translateY(-6px);
+  }
+  40% {
+    transform: translateY(0px);
+  }
+  60% {
+    transform: translateY(-2px);
+  }
+  80% {
+    transform: translateY(0px);
+  }
+}
+
+.card-title {
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: normal;
+}
+.typecard-title {
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: normal;
+}
+
+.card-subtitle {
+  font-weight: lighter;
+  color: lightblue;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+.typecard-subtitle {
+  font-weight: lighter;
+  color: lightblue;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+
+.card-image {
+  height: 75px;
+}
+
+.container {
+  padding: 40px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-tranform: uppercase;
+  text-align: center;
+  font-size: 54px;
+}
+
+#terrapedia {
+  padding-inline-start: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 20px;
+}
+#typedex {
+  padding-inline-start: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 20px;
+  
+}
+
+#tmonline {
+  padding-inline-start: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 20px;
+  
+}
+
+ol#random {
+  padding: 0px;
+}
+
+a {
+  color: white;
+}
+
+.card-stats {
+  vertical-align: top;
+  width: 100px;
+  font-weight: lighter;
+  color: lightblue;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+  textalign: left;
+  display: inline-block;
+}
+.card-bars {
+  width: 100px;
+  font-weight: lighter;
+  color: lightblue;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+  textalign: left;
+  display: inline-block;
+  padding-right: 40px;
+}

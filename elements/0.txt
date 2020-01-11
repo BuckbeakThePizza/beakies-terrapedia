@@ -1,0 +1,1 @@
+{"damage_relations": {"double_damage_from": [{"name": ""},{"name": ""} ],"double_damage_to": [{"name": ""},{"name": ""} ],"half_damage_from": [{"name": ""},{"name": ""} ], "half_damage_to": [{"name": ""},{"name": ""} ]}, "image": "", "name": ""}

@@ -1,0 +1,1 @@
+{"name": "mothgod", "types": [{"slot":1, "type": {"name": "earth"}}], "tmwgid": -10, "evolves": {"level": "none", "name": "does not evolve further"}, "stats": {"HP": 1, "ATT": 1, "DEF": 0, "RAA": 1, "SPE": 1, "AGI": 1}, "image": "https://vignette.wikia.nocookie.net/terramonstersworldgalaxy/images/e/e5/Mothgod.png/revision/latest?cb=20140606194008", "notes": "" }
